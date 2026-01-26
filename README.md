@@ -1,10 +1,4 @@
-## Hi there 👋
 
-- 🔭 I’m currently working on Bittensor & AI Fields.
-- 🌱 I’m currently learning Data Science & Yuma Mechanism
-- 👯 I’m looking to collaborate on Subnet or AI Agent development
-- 🤔 I’m looking for help with optimization backend
-- 💬 Ask me about LLM & Ethereum
 
 
 <!--
