@@ -1,13 +1,5 @@
-Software Engineer who loves AI & Blockchain technologies
 
-- 🔭 I’m currently working on Bittensor
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with critical challenging problems.
-- 💬 Ask me about Python & TypeScript 
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: Investigating, Problem Solving
+
 
 <!--
 **VantaScript/VantaScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
